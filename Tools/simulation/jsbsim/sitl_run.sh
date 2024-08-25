@@ -59,6 +59,9 @@ case "$model" in
         hexarotor_x)
             MODEL_NAME="hexarotor_x"
             ;;
+        f450)
+            MODEL_NAME="F450"
+            ;;
         *)
             echo "Unknown Model"
             exit 1

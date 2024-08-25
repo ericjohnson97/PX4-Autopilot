@@ -72,6 +72,7 @@ px4_add_romfs_files(
 
 	3010_jsbsim_quadrotor_x
 	3011_jsbsim_hexarotor_x
+	3012_jsbsim_f450
 
 	4001_gz_x500
 	4002_gz_x500_depth

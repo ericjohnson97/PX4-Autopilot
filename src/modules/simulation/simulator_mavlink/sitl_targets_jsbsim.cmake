@@ -36,6 +36,7 @@ if(JSBSIM_INCLUDE_DIR)
 		rascal
 		quadrotor_x
 		hexarotor_x
+		f450
 		malolo
 	)
 
